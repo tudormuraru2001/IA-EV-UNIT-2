@@ -1,0 +1,48 @@
+.header1
+{
+    color : #235f85;
+    border : 5px solid black ;
+    background-color : #b0c57d;
+    text-align: right;
+    font-style: oblique;
+}
+
+p
+{
+    color : blue;
+    text-align: right;
+}
+
+.div1
+{
+    border: 2px solid black;
+	border-color:#c98506;
+	background-color:#daf0f7;
+}
+
+.header2
+{
+    color :  #b0c57d; 
+    text-align: center;
+    font-style: italic;
+    font-weight: bold;
+    
+}
+
+.header3
+{
+    color : #b0c57d;
+    text-align: center;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.header4
+{
+    color :#b0c57d;
+    text-align : center;
+    font-style: italic;
+    font-weight: bold;
+}
+
+
